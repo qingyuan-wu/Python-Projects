@@ -1,1 +1,6 @@
-### Here are some Python programs that I completed in my ESC180 and ESC190 programming courses.
+### Here are some Python programs that I completed
+I completed them in
+
+* ESC180 (Python)
+* ESC190 (Data Structures & Algorithms)
+* On my free time for fun
