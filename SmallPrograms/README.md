@@ -7,7 +7,7 @@ I completed them in
 
 The programs include:
 
-* Empirically analyzing the relationship between the height of a Binary Search Tree vs. the number of nodes
-* A Tic Tac Toe game with simple AI optimizations
-* Web scraping using Python's urllib and requests modules
-* Some linear algebra functions including Gaussian Elimination, determinant, and matrix multiplication
+* Empirically analyzing the relationship between the height of a Binary Search Tree vs. the number of nodes (`BSTTree.py`)
+* A Tic Tac Toe game with simple AI optimizations (`TicTacToe.py`)
+* Web scraping using Python's urllib and requests modules (`mostCommon.py`)
+* Some linear algebra functions including Gaussian Elimination, determinant, and matrix multiplication (`linAlg.py` and `GaussianElim.py`)
