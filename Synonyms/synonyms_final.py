@@ -1,4 +1,4 @@
-# Completed: December 2020
+# Completed: December 2020 with Anika Shenoy
 
 # Goal: Use semantic similarity to find synonyms given a list of options.
 # Semantic similarity refers to how often two words appear in similar contexts.
