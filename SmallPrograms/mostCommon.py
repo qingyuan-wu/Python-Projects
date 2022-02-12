@@ -1,5 +1,5 @@
 # Completed: Dec 2020
-# This program uses a urllib request to settle some debates between which more word choices are more common, based on the number of internet searches.
+# This program uses a urllib request to settle some debates between which word choice is more common, based on the number of internet searches.
 # For example, "fifth anniversary" is more commonly used than "five-year anniversary".
 
 import urllib.request
@@ -32,4 +32,4 @@ def choose_variant(variants):
 if __name__ == "__main__":
     options = ["top ranked school uoft", "top ranked school waterloo"]
     print(f"{choose_variant(options)} is the more popular option!")
-    print(choose_variant(["five-year anniversary", "fifth anniversary"]))
+    # print(choose_variant(["five-year anniversary", "fifth anniversary"]))
